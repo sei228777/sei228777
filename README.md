@@ -23,3 +23,11 @@
 - :man_pilot: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-original.svg" width="40" height="40"/>
+</div>
