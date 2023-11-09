@@ -17,3 +17,9 @@
 </div>
 
 ### :mage_man: Обо мне :
+
+- :brain: факт обо мне
+- :biking_man: факт обо мне
+- :man_pilot: факт обо мне
+
+### :hammer_and_wrench: Языки и инструменты :
