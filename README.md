@@ -47,5 +47,5 @@
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img scr="https://github-readme-activity-graph.vercel.app/graph?username=sei228777&theme=tokyo-night" alt=""/>
+  <img scr="https://github-readme-activity-graph.vercel.app/graph?username=sei228777&theme=merko" alt=""/>
 </div>
