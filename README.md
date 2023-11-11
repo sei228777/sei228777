@@ -43,3 +43,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sei228777" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img scr="https://github-readme-activity-graph.vercel.app/graph?username=sei228777&theme=tokyo-night" alt=""/>
+</div>
